@@ -1,0 +1,94 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	text-align: center;
+	
+}
+
+p {
+	text-indent: 50px; 
+	text-align: justify;
+	
+}
+
+body{
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px; 
+	width: 600px; 
+	margin: auto;
+	padding-bottom: 40px;
+}
+	
+.information {
+			border: solid black 1px; 
+			padding-left: 20px;
+			padding-right: 20px;
+			padding-bottom: 20px;
+			border-radius: 25px;
+	
+}
+			
+.interests{
+	margin-left:90px
+	
+}
+
+.favorites {
+	margin-left: 90px;
+	
+}
+
+ul {
+	margin: auto; 
+	text-align: justify;
+	
+}
+	
+ul li  {
+	list-style-position: outside;
+	
+}
+
+#domics {
+	height: 120.4%;
+	width: 30%;
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	/*left: -150px;*/
+	background-image: url("dancing.gif");
+	background-repeat: repeat-y;
+	z-index: -1;
+	overflow: hidden
+}
+		
+#domics1 {
+		height: 120.4%;
+		width: 30%;
+		position: absolute;
+		top: 150px;
+		right:80px;
+		/*left: -150px;*/
+		background-image: url("dancing.gif");
+		background-repeat: repeat-y;
+		z-index: -1;
+		overflow: hidden
+}
+
+#domics2 {
+		width: 200px; 
+		margin-left: 50px;
+	
+}
+		
+#oatmeal {
+	width: 250px;
+	
+}
